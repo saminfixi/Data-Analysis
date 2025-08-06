@@ -1,1 +1,1 @@
-
+This folder houses my data analysis projects developed using Tableau Public Desktop. Tableau allows for intuitive and powerful data visualization, enabling quick insights and interactive dashboard creation.
